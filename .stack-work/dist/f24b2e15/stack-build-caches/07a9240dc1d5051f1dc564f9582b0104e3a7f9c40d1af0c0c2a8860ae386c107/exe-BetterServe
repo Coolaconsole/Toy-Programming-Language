@@ -1,0 +1,28 @@
+C:\Users\willi\AppData\Local\Programs\stack\x86_64-windows\ghc-9.8.4\lib\x86_64-windows-ghc-9.8.4\rts-1.0.2\include\MachDeps.h:
+  hash: 94f383f2743e37d6240fdf24b33714450bccce7dc5d0aa8e593f26e1b8a3d4af
+? C:\Users\willi\AppData\Local\Programs\stack\x86_64-windows\ghc-9.8.4\lib\x86_64-windows-ghc-9.8.4\rts-1.0.2\include\ghcautoconf.h
+: hash: 98b6f43be5efcae1545ab5c397613925c7ad7f4b56cbb69d87553d84cff24a14
+C:\Users\willi\AppData\Local\Programs\stack\x86_64-windows\ghc-9.8.4\lib\x86_64-windows-ghc-9.8.4\rts-1.0.2\include\ghcconfig.h:
+  hash: 03f4611ae97decc9e8c76c212bf7886d003b29d5c62b43fee6623a799f6e5fdf
+? C:\Users\willi\AppData\Local\Programs\stack\x86_64-windows\ghc-9.8.4\lib\x86_64-windows-ghc-9.8.4\rts-1.0.2\include\ghcplatform.h
+: hash: 25fec2b37d93a348f35d846578b3561c069462a65603f9aaf66eea2199a24806
+C:\Users\willi\AppData\Local\Programs\stack\x86_64-windows\ghc-9.8.4\lib\x86_64-windows-ghc-9.8.4\rts-1.0.2\include\ghcversion.h:
+  hash: 95162794a3bf5e6167631fdd41a509846597231d523d0f21a76713b1f801373c
+C:\Users\willi\PLC Coursework\.stack-work\dist\f24b2e15\build\BetterServe\autogen\cabal_macros.h:
+  hash: 24f300cc6a788f2cae8facf57cdcc06e229377018d81343e89124d3a9d528b09
+C:\Users\willi\PLC Coursework\CHANGELOG.md:
+  hash: 1b726e7b11c667604d8d3d7921b81d60108a10f050a3cbb6942860465313662d
+C:\Users\willi\PLC Coursework\PLC.cabal:
+  hash: a029187c0e1636785ae7e1c3950a53952c0e8031599ca3de5b2ff371b2404193
+C:\Users\willi\PLC Coursework\README.md:
+  hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+C:\Users\willi\PLC Coursework\package.yaml:
+  hash: c49c3969cb505e193f91068b0199afe4a98189e31a724eb0207c9056871b23c8
+C:\Users\willi\PLC Coursework\src\Eval.hs:
+  hash: 707cbc5bfe36cad140cf5feac161a403f55d16cd56b9b9d6056b5f4efb61cb2a
+C:\Users\willi\PLC Coursework\src\Grammar.y:
+  hash: ff768ccc451e8bce78833d3a64df7bdbfd54580980b2673af742fff0028dd0cf
+C:\Users\willi\PLC Coursework\src\Main.hs:
+  hash: 0b7039663105eac71f0214aaf789caf9bdce4f83f837e03dc675f1ca725b393c
+C:\Users\willi\PLC Coursework\src\Tokens.x:
+  hash: 6478f9dbe0fe9e25d904704d102e2f46f08223570090468f5f9245e917e400a7
